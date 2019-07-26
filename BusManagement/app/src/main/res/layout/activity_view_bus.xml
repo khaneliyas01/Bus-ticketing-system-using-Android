@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background27"
+    tools:context="main.com.busmanagement.ViewBus">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="8dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+
+
+            <TextView
+                android:id="@+id/textSearchBusHeading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Search bus details and schedule"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textSearchBusDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textSearchBusHeading"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:text="Click here to select date"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="italic" />
+
+            <Spinner
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:id="@+id/editSearchBusSource"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/textSearchBusDate"
+                android:layout_marginTop="30dp"/>
+
+            <Spinner
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:id="@+id/editSearchBusDestination"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/editSearchBusSource"
+                android:layout_marginTop="30dp"/>
+
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:id="@+id/btnSearchBusSearch"
+                android:background="@drawable/button6"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="40dp"
+                android:layout_below="@+id/editSearchBusDestination"
+                android:text="Search for buses"/>
+
+        </RelativeLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

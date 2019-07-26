@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background27"
+    tools:context="main.com.busmanagement.Registration">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="8dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="25dp"
+                android:text="Provide following information for registration"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/imgStudentIDphoto"
+                android:layout_marginTop="25dp"
+                android:layout_below="@id/textView1"
+                app:srcCompat="@drawable/addpic"/>
+
+
+            <EditText
+                android:id="@+id/editRegStdName"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:layout_below="@+id/imgStudentIDphoto"
+                android:hint="First Name"
+                android:textAlignment="center" />
+
+
+            <EditText
+                android:id="@+id/editRegStdRollNo"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:hint="Last Name"
+                android:layout_below="@+id/editRegStdName"
+                android:textAlignment="center" />
+
+
+            <TextView
+                android:id="@+id/textRegStdDob"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editRegStdRollNo"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:text="Click here to enter Date of Birth"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/textRegStdSelectYear"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/textRegStdDob"
+                android:text="Select your gender here" />
+
+            <Spinner
+                android:id="@+id/spinnerRegStdYear"
+                android:layout_width="250dp"
+                android:layout_height="35dp"
+                android:layout_below="@id/textRegStdSelectYear"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:popupBackground="@android:color/background_light"
+                android:textAlignment="center" />
+
+
+            <EditText
+                android:id="@+id/editRegStdEmail"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/spinnerRegStdYear"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:hint="Email_ID"
+                android:inputType="textEmailAddress"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/editRegStdMobileNo"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editRegStdEmail"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:maxLength="10"
+                android:hint="Mobile Number"
+                android:inputType="phone"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/editRegStdAddress"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editRegStdMobileNo"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:hint="Address"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/editRegAadhar"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editRegStdAddress"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:hint="Aadhar Number"
+                android:maxLength="12"
+                android:inputType="number"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/editRegPassword"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editRegAadhar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:textAlignment="center" />
+
+            <Button
+                android:id="@+id/btnRegStudentSubmit"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="30dp"
+                android:text="Submit"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/button6"
+                android:layout_below="@+id/editRegPassword"
+                android:textColor="@android:color/background_dark" />
+        </RelativeLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

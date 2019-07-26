@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        tools:context="main.com.busmanagement.TrackBusLocationMap" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/editSearchRidesStarting"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5dp"
+            android:maxLines="1"
+            android:inputType="text"
+            android:background="@android:color/darker_gray"
+            android:hint="Enter starting location"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/editSearchRidesEnding"
+            android:layout_below="@+id/editSearchRidesStarting"
+            android:background="@android:color/darker_gray"
+            android:maxLines="1"
+            android:inputType="text"
+            android:hint="Enter destination location"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/btnSearchRidesSearch"
+            android:layout_below="@+id/editSearchRidesEnding"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:text="Search for available rides" />
+    </LinearLayout>
+
+</RelativeLayout>

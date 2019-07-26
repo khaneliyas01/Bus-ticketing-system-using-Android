@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background23"
+    tools:context="main.com.busmanagement.TCLogin">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="8dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+
+            <TextView
+                android:id="@+id/textTCLoginHeading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="0dp"
+                android:text="Provide Login Details"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:id="@+id/editTCLoginUserId"
+                android:layout_below="@+id/textTCLoginHeading"
+                android:layout_marginTop="30dp"
+                android:layout_centerHorizontal="true"
+                android:hint="UserID / Bus Number"
+                android:maxLines="1"/>
+
+            <EditText
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/editTCLoginPassword"
+                android:layout_below="@+id/editTCLoginUserId"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:layout_marginTop="30dp" />
+
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/button6"
+                android:layout_below="@+id/editTCLoginPassword"
+                android:id="@+id/btnTCLogin"
+                android:layout_marginTop="40dp"
+                android:text="Login"/>
+
+            <TextView
+                android:id="@+id/textLinktoUserLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btnTCLogin"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:text="Click here to user login"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

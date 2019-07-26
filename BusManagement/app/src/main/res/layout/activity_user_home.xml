@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background27"
+    tools:context="main.com.busmanagement.UserHome">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="8dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:id="@+id/textUserHomeName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                android:text="User Name \n Mobile Number"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_dark"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imgUserHome"
+                android:layout_width="30dp"
+                android:layout_height="140dp"
+                android:layout_toStartOf="@+id/textUserHomeName"
+                app:srcCompat="@drawable/addpic"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="30dp"
+                android:layout_marginEnd="80dp"
+                android:layout_marginTop="15dp"/>
+
+            <TextView
+                android:id="@+id/textUserHomeEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/textUserHomeName"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_toEndOf="@+id/imgUserHome"
+                android:layout_marginTop="8dp"
+                android:text="User Email address"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_dark"
+                android:textSize="18sp" />
+
+
+            <Button
+                android:id="@+id/btnUserSearchTrain"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="90dp"
+                android:text="Search Bus"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/button6"
+                android:layout_below="@+id/imgUserHome"
+                android:textColor="@android:color/background_dark" />
+
+            <Button
+                android:id="@+id/btnUserViewBookedTickets"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:text="Booked Tickets"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/button6"
+                android:layout_below="@+id/btnUserSearchTrain"
+                android:textColor="@android:color/background_dark" />
+
+            <Button
+                android:id="@+id/btnUserAddBalance"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:text="Add Balance"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/button6"
+                android:layout_below="@+id/btnUserViewBookedTickets"
+                android:textColor="@android:color/background_dark" />
+
+            <Button
+                android:id="@+id/btnUserTrackBus"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:text="Track Bus Location"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/button6"
+                android:layout_below="@+id/btnUserAddBalance"
+                android:textColor="@android:color/background_dark" />
+
+            <Button
+                android:id="@+id/btnUserLogout"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:text="Logout"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/button6"
+                android:layout_below="@+id/btnUserTrackBus"
+                android:textColor="@android:color/background_dark" />
+
+            <Button
+                android:id="@+id/sch"
+                android:layout_width="250dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/imgUserHome"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="33dp"
+                android:background="@drawable/button6"
+
+                android:text="Schedule" />
+        </RelativeLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

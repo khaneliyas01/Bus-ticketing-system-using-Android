@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:16:1-25:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\c9e29d3e12d4892a137567a894ef38c5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e0f58573e2496f0c266c9675d40aa56\AndroidManifest.xml:17:1-26:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\9b288bbabc63fce406199accc8378322\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9e68debabd941334e2ec6791479140b2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\66d0817bdcbe55f2f0e81f0a9839d82e\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b61747f00314a17c7e6d0e0b841b26cf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\156edf91a1fe209735c3cd74e91af989\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\af9e5cbbda4dd575b77b70bc706456b5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1fd66e95cc676f94ae4dc714abe2570c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e6850e1401f677f1c09833023626288b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7cfefb7a8ef08dc0a0adbb2081a5d530\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\41c3e159c5926b35a7311722f805cec7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60beecc495078ae25f2c2f6e91a54d8e\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:13:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.INSTANT_APP_FOREGROUND_SERVICE
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:14:22-86
+application
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:16:5-65:19
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\c9e29d3e12d4892a137567a894ef38c5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\c9e29d3e12d4892a137567a894ef38c5\AndroidManifest.xml:26:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\9b288bbabc63fce406199accc8378322\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\9b288bbabc63fce406199accc8378322\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9e68debabd941334e2ec6791479140b2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9e68debabd941334e2ec6791479140b2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\66d0817bdcbe55f2f0e81f0a9839d82e\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\66d0817bdcbe55f2f0e81f0a9839d82e\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b61747f00314a17c7e6d0e0b841b26cf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b61747f00314a17c7e6d0e0b841b26cf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\156edf91a1fe209735c3cd74e91af989\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\156edf91a1fe209735c3cd74e91af989\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\af9e5cbbda4dd575b77b70bc706456b5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\af9e5cbbda4dd575b77b70bc706456b5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1fd66e95cc676f94ae4dc714abe2570c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1fd66e95cc676f94ae4dc714abe2570c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e6850e1401f677f1c09833023626288b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e6850e1401f677f1c09833023626288b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7cfefb7a8ef08dc0a0adbb2081a5d530\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7cfefb7a8ef08dc0a0adbb2081a5d530\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\41c3e159c5926b35a7311722f805cec7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\41c3e159c5926b35a7311722f805cec7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60beecc495078ae25f2c2f6e91a54d8e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60beecc495078ae25f2c2f6e91a54d8e\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:22:9-40
+activity#main.com.busmanagement.Splash
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:23:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:27:27-74
+activity#main.com.busmanagement.MainActivity
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:30:19-47
+activity#main.com.busmanagement.TCLogin
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:31:9-45
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:31:19-42
+activity#main.com.busmanagement.TCHome
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:32:19-41
+activity#main.com.busmanagement.UserHome
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:33:9-46
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:33:19-43
+activity#main.com.busmanagement.Registration
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:34:19-47
+activity#main.com.busmanagement.ViewBus
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:35:9-45
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:35:19-42
+activity#main.com.busmanagement.SearchedBus
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:36:9-49
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:36:19-46
+activity#main.com.busmanagement.BookedTickets
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:37:9-51
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:37:19-48
+activity#main.com.busmanagement.FullScreenImageActivity
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:38:19-58
+activity#main.com.busmanagement.TCDailyReport
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:39:9-51
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:39:19-48
+activity#main.com.busmanagement.AddCard
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:43:9-45
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:43:19-42
+activity#main.com.busmanagement.BActivity
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:44:9-47
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:44:19-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:53:9-55:55
+	android:value
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:55:13-52
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:54:13-58
+activity#main.com.busmanagement.TrackBusLocationMap
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:57:9-59:77
+	android:label
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:59:13-74
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:58:13-48
+activity#main.com.busmanagement.ScheduleActivity
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:60:9-63
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:60:19-51
+service#main.com.busmanagement.LocService
+ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:62:9-64:38
+	android:enabled
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:63:13-36
+	android:name
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml:62:18-44
+uses-sdk
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:23:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\c9e29d3e12d4892a137567a894ef38c5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\c9e29d3e12d4892a137567a894ef38c5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e0f58573e2496f0c266c9675d40aa56\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e0f58573e2496f0c266c9675d40aa56\AndroidManifest.xml:20:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\9b288bbabc63fce406199accc8378322\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\9b288bbabc63fce406199accc8378322\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9e68debabd941334e2ec6791479140b2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9e68debabd941334e2ec6791479140b2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\66d0817bdcbe55f2f0e81f0a9839d82e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\66d0817bdcbe55f2f0e81f0a9839d82e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b61747f00314a17c7e6d0e0b841b26cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b61747f00314a17c7e6d0e0b841b26cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\156edf91a1fe209735c3cd74e91af989\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\156edf91a1fe209735c3cd74e91af989\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\af9e5cbbda4dd575b77b70bc706456b5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\af9e5cbbda4dd575b77b70bc706456b5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1fd66e95cc676f94ae4dc714abe2570c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1fd66e95cc676f94ae4dc714abe2570c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e6850e1401f677f1c09833023626288b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e6850e1401f677f1c09833023626288b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7cfefb7a8ef08dc0a0adbb2081a5d530\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7cfefb7a8ef08dc0a0adbb2081a5d530\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\41c3e159c5926b35a7311722f805cec7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\41c3e159c5926b35a7311722f805cec7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60beecc495078ae25f2c2f6e91a54d8e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60beecc495078ae25f2c2f6e91a54d8e\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+		ADDED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Modules\bus new koparde\new code update\BusManagement\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.1.aar\c80e3d7961d5234deada37f6aa91db43\AndroidManifest.xml:21:52-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\c9e29d3e12d4892a137567a894ef38c5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\c9e29d3e12d4892a137567a894ef38c5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e0f58573e2496f0c266c9675d40aa56\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\1e0f58573e2496f0c266c9675d40aa56\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b61747f00314a17c7e6d0e0b841b26cf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b61747f00314a17c7e6d0e0b841b26cf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\156edf91a1fe209735c3cd74e91af989\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\156edf91a1fe209735c3cd74e91af989\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\af9e5cbbda4dd575b77b70bc706456b5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\af9e5cbbda4dd575b77b70bc706456b5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1fd66e95cc676f94ae4dc714abe2570c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\1fd66e95cc676f94ae4dc714abe2570c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e6850e1401f677f1c09833023626288b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e6850e1401f677f1c09833023626288b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7cfefb7a8ef08dc0a0adbb2081a5d530\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7cfefb7a8ef08dc0a0adbb2081a5d530\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\41c3e159c5926b35a7311722f805cec7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\41c3e159c5926b35a7311722f805cec7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60beecc495078ae25f2c2f6e91a54d8e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\60beecc495078ae25f2c2f6e91a54d8e\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\574d5b25b66ae18d07402513387f9ae9\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\8feed0e8300e04ddd4371cfac5dcff66\AndroidManifest.xml:47:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\23d43bfd97abf312511562aac05f0cfd\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishals\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\0561ec211efb66079187f63b18521b44\AndroidManifest.xml:20:20-65

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bus Management</string>
+    <string name="title_activity_track_bus_location_map">Map</string>
+</resources>
